@@ -1,0 +1,10 @@
+.bg {
+    background-color: white;
+    width: 200px;
+    background-color: red;
+    padding: 20px;
+    border: 2px solid black;
+}
+/* .special {
+    box-sizing: border-box;
+} */

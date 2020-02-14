@@ -1,0 +1,12 @@
+body 
+{
+font-size: 30px;
+font-weight: bolder;
+font-style: inherit;
+background-image: url(/Images/photo-1580216196545-f29df3635c04.jpg);
+color: lawngreen;
+}
+.nav {
+    position: sticky;
+    top: 5px;
+}
